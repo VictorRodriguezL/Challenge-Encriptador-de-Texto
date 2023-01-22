@@ -1,5 +1,8 @@
 var entradaTexto = document.querySelector(".entrada-texto");
 var salidaTexto = document.querySelector(".salida-texto");
+var seccionTexto1 = document.querySelector(".texto1");
+var seccionTexto2 = document.querySelector(".texto2");
+var btnCopiar = document.querySelector(".copiar");
 
 function validar(textoValidar){
     const letras = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","Ñ","O","P","Q","R","S","T","U","V","W","X","Y","Z","Á","É","Í","Ó","Ú","á","é","í","ó","ú"];
@@ -47,7 +50,7 @@ function encriptar() {
     }
     entradaTexto.value = "";
     salidaTexto.value = salida;
-    cambio();
+    ocultar();
 }
 
 function desencriptar() {
@@ -84,14 +87,21 @@ function desencriptar() {
     }
     entradaTexto.value = "";
     salidaTexto.value = salida;
-    cambio();
+    ocultar();
 }
 
-function cambio(){
-    salidaTexto.style.background= "white";
-    document.querySelector(".texto1").style.display = "none";
-    document.querySelector(".texto2").style.display = "none";
-    document.querySelector(".copiar").style.display = "";
+function ocultar(){
+    salidaTexto.style.background = "white";
+    seccionTexto1.style.display = "none";
+    seccionTexto2.style.display = "none";
+    btnCopiar.style.display = "";
+}
+
+function mostrar(){
+    salidaTexto.style.background = "#FFF no-repeat center url(imagenes/buscar.png)";
+    seccionTexto1.style.display = "";
+    seccionTexto2.style.display = "";
+    btnCopiar.style.display = "none";
 }
 
 function copiar(){
@@ -104,4 +114,6 @@ function copiar(){
     setTimeout(() => {
         anuncio.style.display = "none";
     }, 950);
+    salidaTexto.value = "";
+    mostrar();
 }
