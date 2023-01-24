@@ -98,7 +98,7 @@ function ocultar(){
 }
 
 function mostrar(){
-    salidaTexto.style.background = "#FFF no-repeat center url(imagenes/buscar.png)";
+    salidaTexto.style.background = "#FFF no-repeat center url(imagenes/notexto.png)";
     seccionTexto1.style.display = "";
     seccionTexto2.style.display = "";
     btnCopiar.style.display = "none";
@@ -113,7 +113,7 @@ function copiar(){
     anuncio.style.display = "block";
     setTimeout(() => {
         anuncio.style.display = "none";
+        salidaTexto.value = "";
+        mostrar();
     }, 950);
-    salidaTexto.value = "";
-    mostrar();
 }
