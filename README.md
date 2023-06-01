@@ -1,5 +1,7 @@
 # Challenge ONE - Encriptador de texto.
 
+![Portada](https://github.com/VictorRodriguezL/Challenge-Encriptador-de-Texto/assets/123136998/6dbc50b6-65e1-466c-82a6-c4d22094536f)
+
 ![Badge Release](https://img.shields.io/badge/Release%20Date:-Enero-blue)
 ![Badge Java](https://img.shields.io/badge/HTML5-blue)
 ![Badge Java](https://img.shields.io/badge/CSS3-blue)
@@ -10,7 +12,7 @@
 
 Es la resolución del **Challenge - Encriptador de Texto** utilizando **HTML5**, **CSS3** y **JavaScript** es el primer reto de la formación **Oracle Next Education (ONE)** de **Oracle + Alura LATAM**.
 
-El reto cosiste en crear una encriptador de texto con JavaScript.
+El reto cosiste en contruir una página web que encripte y desencripte el texto que será ingresado por el usuario y poder regresar en su forma encriptada o desencriptada según sea el caso, el objetivo principal de este desafio es poner a prueba los conocimientos adquiridos durante los cursos vistos en la **Formación Principiante en Programación**.
 
 ### Historia
 
