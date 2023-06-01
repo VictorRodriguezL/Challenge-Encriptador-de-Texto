@@ -57,18 +57,15 @@ No son necesarios tener descargados programas especiales para poder probar el En
 
 Para probarlo se puede de dos maneras ya sea descargando una copia en su computadora o directamente desde GitHub Pages.
 
-Para descargarlo:
+**Para descargarlo:**
 
-```
 [Clic para Descargar](https://github.com/VictorRodriguezL/Challenge-Encriptador-de-Texto/releases/tag/v0.1.1)
-```
 
-Para probarlo directamente:
+**Para probarlo directamente:**
 
-```
 [Encriptador de Texto](https://victorrodriguezl.github.io/Challenge-Encriptador-de-Texto/)
-```
-Demo:
+
+**Demo:**
 
 ![Demo](https://github.com/VictorRodriguezL/Challenge-Encriptador-de-Texto/assets/123136998/3015b1db-b343-4dce-816f-fe93f3a350c0)
 
