@@ -1,5 +1,4 @@
-
-	# Challenge ONE - Encriptador de texto.
+# Challenge ONE - Encriptador de texto.
 
 ![Badge Release](https://img.shields.io/badge/Release%20Date:-Enero-blue)
 ![Badge Java](https://img.shields.io/badge/HTML5-blue)
@@ -22,11 +21,11 @@ El _Encriptador de Texto_ es una aplicación que encripta textos, así podras in
 Las **llaves** de encriptación que utilizaremos son las siguientes:
 
 ```
-La letra **"e"** es convertida en **"enter"**
-La letra **"i"** es convertida en **"imes"**
-La letra **"a"** es convertida en **"ai"**
-La letra **"o"** es convertida en **"ober"**
-La letra **"u"** es convertida en **"ufat"**
+La letra "e" es convertida en "enter"
+La letra "i" es convertida en "imes"
+La letra "a" es convertida en "ai"
+La letra "o" es convertida en "ober"
+La letra "u" es convertida en "ufat"
 ```
 
 ### :hammer:Funcionalidades
