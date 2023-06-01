@@ -1,12 +1,12 @@
 # Challenge ONE - Encriptador de texto.
 
-![Portada](https://github.com/VictorRodriguezL/Challenge-Encriptador-de-Texto/assets/123136998/6dbc50b6-65e1-466c-82a6-c4d22094536f)
-
 ![Badge Release](https://img.shields.io/badge/Release%20Date:-Enero-blue)
 ![Badge Java](https://img.shields.io/badge/HTML5-blue)
 ![Badge Java](https://img.shields.io/badge/CSS3-blue)
 ![Badge Java](https://img.shields.io/badge/JavaScript-blue)
 ![Badge Finalizado](https://img.shields.io/badge/Status:-Finalizado-blue)
+
+![Portada](https://github.com/VictorRodriguezL/Challenge-Encriptador-de-Texto/assets/123136998/6dbc50b6-65e1-466c-82a6-c4d22094536f)
 
 ## Descrpción del Proyecto
 
@@ -51,29 +51,26 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
-
-```
-Da un ejemplo
-```
+No son necesarios tener descargados programas especiales para poder probar el Encriptador de texto, simplemente con el navegador web de su preferencia.
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+Para probarlo se puede de dos maneras ya sea descargando una copia en su computadora o directamente desde GitHub Pages.
 
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
+Para descargarlo:
 
 ```
-hasta finalizar
+[Clic para Descargar](https://github.com/VictorRodriguezL/Challenge-Encriptador-de-Texto/releases/tag/v0.1.1)
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+Para probarlo directamente:
+
+```
+[Encriptador de Texto](https://victorrodriguezl.github.io/Challenge-Encriptador-de-Texto/)
+```
+Demo:
+
+![Demo](https://github.com/VictorRodriguezL/Challenge-Encriptador-de-Texto/assets/123136998/3015b1db-b343-4dce-816f-fe93f3a350c0)
 
 ## Construido con 🛠️
 
